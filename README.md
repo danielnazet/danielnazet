@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @danielnazet
-- 👀 I’m interested in motorization, travel and JAVA
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on project for Java junior
+- 👋 Hi, I’m Daniel
+- 👀 I’m interested in java script and travel
+- 🌱 I’m currently learning JS.
+- 💞️ I’m looking to collaborate on project for Java script junior
 - 📫 How to reach me email or fb
 
 <!---
