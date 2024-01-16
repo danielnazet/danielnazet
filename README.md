@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in java script and travel
+- 👀 I’m interested in JS / HTML / CSS.
 - 🌱 I’m currently learning html/js/css/api/ - frontend fullstack dev.
 - 💞️ I’m looking to collaborate on project for junior fullstack dev.
 - 📫 How to reach me email or fb
