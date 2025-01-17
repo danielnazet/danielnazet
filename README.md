@@ -1,4 +1,3 @@
-About Me
 Hi there! My name is Daniel, and I’m 35 years old. I discovered my passion for programming not long ago, but I’ve approached it with serious dedication and full commitment. Currently, I’m transitioning my career to become a professional developer—it’s not an easy journey, but I work hard every day to achieve this goal.
 
 I specialize in frontend development, working with technologies such as React, Tailwind CSS, JavaScript, React Native and CSS. However, I don’t limit myself to just one area—I’m also growing as a full-stack developer and am open to learning new technologies and programming directions. Being self-taught, I value every opportunity to learn and improve my skills.
